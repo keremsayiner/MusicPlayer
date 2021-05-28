@@ -1,0 +1,1 @@
+views.py dosyasını editlerken en üst satırdaki kodu silmedim. Silmek sorunu çözebilir.
