@@ -6,3 +6,5 @@ from .models import Album
 # Register your models here.
 admin.site.register(Song)
 admin.site.register(Album)
+
+# hello
