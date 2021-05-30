@@ -5,6 +5,7 @@ from django.shortcuts import render, redirect
 # imported our models
 from django.core.paginator import Paginator
 from .models import Song
+from .models import Album
 
 def index(request):
     paginator= Paginator(Song.objects.all(),1)
